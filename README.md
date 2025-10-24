@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME : Tirupathi Jayadeep </H3>
-<H3>ENTER YOUR REGISTER NO. : 212223240169</H3>
+<H3>ENTER YOUR NAME : pochi reddy P </H3>
+<H3>ENTER YOUR REGISTER NO. : 212223240115</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 26.9.2025</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
